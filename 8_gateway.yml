@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: gatewayserver
-        image: souma4/gatewayserver:V1
+        image: souma4/gatewayserver:V2
         ports:
         - containerPort: 8072
         env:

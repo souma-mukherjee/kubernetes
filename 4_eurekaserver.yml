@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: eurekaserver
-        image: souma4/eurekaserver:V1
+        image: souma4/eurekaserver:V2
         ports:
         - containerPort: 8070
         env:

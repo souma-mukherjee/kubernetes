@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: configserver
-        image: souma4/configserver:V1
+        image: souma4/configserver:V2
         ports:
         - containerPort: 8071
 ---

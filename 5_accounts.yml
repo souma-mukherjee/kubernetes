@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: accounts
-        image: souma4/accounts:V1
+        image: souma4/accounts:V2
         ports:
         - containerPort: 8080
         env:

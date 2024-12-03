@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cards
-        image: souma4/cards:V1
+        image: souma4/cards:V2
         ports:
         - containerPort: 9000
         env:
